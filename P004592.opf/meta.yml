@@ -10,6 +10,7 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 102
+      base_file: v001.txt
     48bdde32752344649150606a67a447a8:
       image_group_id: I2DB57013
       title: ''
@@ -20,86 +21,103 @@ source_metadata:
       title: ''
       volume_number: 3
       total_pages: 102
+      base_file: v002.txt
     4113fb0004ef464594a746d30f6dd1a3:
       image_group_id: I2DB57015
       title: ''
       volume_number: 4
       total_pages: 90
+      base_file: v003.txt
     8ef36ebf33d94d7d8532af3a515e10b5:
       image_group_id: I2DB57016
       title: ''
       volume_number: 5
       total_pages: 78
+      base_file: v004.txt
     28db0de0bb884386a6ac39ca5d51d5d6:
       image_group_id: I2DB57017
       title: ''
       volume_number: 6
       total_pages: 90
+      base_file: v005.txt
     7bca277d8cee41ba86702f5939989b4e:
       image_group_id: I2DB57018
       title: ''
       volume_number: 7
       total_pages: 82
+      base_file: v006.txt
     d139e7a5ca3847ee93f83a8ce1bb4141:
       image_group_id: I2DB57019
       title: ''
       volume_number: 8
       total_pages: 78
+      base_file: v007.txt
     22d51c92e403426da9741633b0a76f8a:
       image_group_id: I2DB57020
       title: ''
       volume_number: 9
       total_pages: 82
+      base_file: v008.txt
     605aa555c94840bda3a77d83cacc41ee:
       image_group_id: I2DB57021
       title: ''
       volume_number: 10
       total_pages: 78
+      base_file: v009.txt
     6694e323f65f45f58184e0e8525a493a:
       image_group_id: I2DB57022
       title: ''
       volume_number: 11
       total_pages: 90
+      base_file: v010.txt
     fd804ea0da6f4e7d9095d42f1028e548:
       image_group_id: I2DB57023
       title: ''
       volume_number: 12
       total_pages: 82
+      base_file: v011.txt
     33b1a0149a1c4d0c87a57a992405560e:
       image_group_id: I2DB57024
       title: ''
       volume_number: 13
       total_pages: 78
+      base_file: v012.txt
     16b6cefaa2f54530bd9e70de34283be5:
       image_group_id: I2DB57025
       title: ''
       volume_number: 14
       total_pages: 78
+      base_file: v013.txt
     c57b1c8bbaef4f58987006d23be13eca:
       image_group_id: I2DB57026
       title: ''
       volume_number: 15
       total_pages: 78
+      base_file: v014.txt
     8572853a0b524e01aa5b49f27400335c:
       image_group_id: I2DB57027
       title: ''
       volume_number: 16
       total_pages: 86
+      base_file: v015.txt
     074bfccb2def41238dff0c46c4a6c4e1:
       image_group_id: I2DB57028
       title: ''
       volume_number: 17
       total_pages: 82
+      base_file: v016.txt
     bf5f5b65db9643c28c6de4e176a126f4:
       image_group_id: I2DB57029
       title: ''
       volume_number: 18
       total_pages: 82
+      base_file: v017.txt
     c58730ad6b6042a4aec9d6243b8c9643:
       image_group_id: I2DB57030
       title: ''
       volume_number: 19
       total_pages: 78
+      base_file: v018.txt
     f318fb4bcb754ae8957a30a4af5d2a05:
       image_group_id: I2DB57031
       title: ''
@@ -110,176 +128,211 @@ source_metadata:
       title: ''
       volume_number: 21
       total_pages: 82
+      base_file: v019.txt
     fca42686ee23489288ca4b5ee4c0e0ce:
       image_group_id: I2DB57033
       title: ''
       volume_number: 22
       total_pages: 74
+      base_file: v020.txt
     5616f923d59a41e7a948fbba9b232cd1:
       image_group_id: I2DB57034
       title: ''
       volume_number: 23
       total_pages: 94
+      base_file: v021.txt
     ec7788a2f9674e288e77bce0d7428ded:
       image_group_id: I2DB57035
       title: ''
       volume_number: 24
       total_pages: 94
+      base_file: v022.txt
     b24d40cfb5da409f9efe3865f818c4ab:
       image_group_id: I2DB57036
       title: ''
       volume_number: 25
       total_pages: 76
+      base_file: v023.txt
     f0020191fedd48818c68e36299d78a3b:
       image_group_id: I2DB57037
       title: ''
       volume_number: 26
       total_pages: 82
+      base_file: v024.txt
     76ac078b7d5a48a58e083a7016cb732b:
       image_group_id: I2DB57038
       title: ''
       volume_number: 27
       total_pages: 78
+      base_file: v025.txt
     e92914777de0436d853469e8eccf8080:
       image_group_id: I2DB57039
       title: ''
       volume_number: 28
       total_pages: 78
+      base_file: v026.txt
     145cfc9881254584bc64ff95f6a1cd85:
       image_group_id: I2DB57040
       title: ''
       volume_number: 29
       total_pages: 70
+      base_file: v027.txt
     47978e20292f487eacf9cbcae5429cad:
       image_group_id: I2DB57041
       title: ''
       volume_number: 30
       total_pages: 84
+      base_file: v028.txt
     8792e7a558fb470eb45b4289a12219df:
       image_group_id: I2DB57042
       title: ''
       volume_number: 31
       total_pages: 70
+      base_file: v029.txt
     13aaf9821b47478c818f816eb59052c7:
       image_group_id: I2DB57043
       title: ''
       volume_number: 32
       total_pages: 66
+      base_file: v030.txt
     8e1259b6a70847feabe22f0b512a92f0:
       image_group_id: I2DB57044
       title: ''
       volume_number: 33
       total_pages: 70
+      base_file: v031.txt
     8e318aa485834fb7bbee3ad36f8a1209:
       image_group_id: I2DB57045
       title: ''
       volume_number: 34
       total_pages: 66
+      base_file: v032.txt
     9e4912f22d94487085d9e00a53707df8:
       image_group_id: I2DB57046
       title: ''
       volume_number: 35
       total_pages: 66
+      base_file: v033.txt
     7bdd80599b744f7898b2bad0936771a0:
       image_group_id: I2DB57047
       title: ''
       volume_number: 36
       total_pages: 70
+      base_file: v034.txt
     895b545fd6784b0a8e39ed2c657bfd43:
       image_group_id: I2DB57048
       title: ''
       volume_number: 37
       total_pages: 70
+      base_file: v035.txt
     42ccf51ea8a643d1a8619fe92f890d31:
       image_group_id: I2DB57049
       title: ''
       volume_number: 38
       total_pages: 70
+      base_file: v036.txt
     a7d9a8726ed24bf9b83631fd5fc69a9e:
       image_group_id: I2DB57050
       title: ''
       volume_number: 39
       total_pages: 66
+      base_file: v037.txt
     328b1b3cbfc64e759bfe46610809a05e:
       image_group_id: I2DB57051
       title: ''
       volume_number: 40
       total_pages: 70
+      base_file: v038.txt
     eb1391cbb7d94264bdf7cd7e91db8307:
       image_group_id: I2DB57052
       title: ''
       volume_number: 41
       total_pages: 70
+      base_file: v039.txt
     a5594d2a5c314287943f5c70d1d8e0c5:
       image_group_id: I2DB57053
       title: ''
       volume_number: 42
       total_pages: 86
+      base_file: v040.txt
     0c959c8145654e08b94c099b42262c3c:
       image_group_id: I2DB57054
       title: ''
       volume_number: 43
       total_pages: 86
+      base_file: v041.txt
     b0f9bf9d3312430283e018d20a20f13b:
       image_group_id: I2DB57055
       title: ''
       volume_number: 44
       total_pages: 90
+      base_file: v042.txt
     c9a791d472544eb6bd0846badeaf70a5:
       image_group_id: I2DB57056
       title: ''
       volume_number: 45
       total_pages: 86
+      base_file: v043.txt
     de7e7d55e41645019017fb0a85e3114f:
       image_group_id: I2DB57057
       title: ''
       volume_number: 46
       total_pages: 90
+      base_file: v044.txt
     3366385dd86c4ec5b7cbf9f34ae8fe65:
       image_group_id: I2DB57058
       title: ''
       volume_number: 47
       total_pages: 90
+      base_file: v045.txt
     8aa790f6e8f34537a6605964dc5c330f:
       image_group_id: I2DB57059
       title: ''
       volume_number: 48
       total_pages: 86
+      base_file: v046.txt
     0819bc5df78b4c4a9129b7111fb4c424:
       image_group_id: I2DB57060
       title: ''
       volume_number: 49
       total_pages: 90
+      base_file: v047.txt
     294307ede1c64b3895e22c150c71f048:
       image_group_id: I2DB57061
       title: ''
       volume_number: 50
       total_pages: 90
+      base_file: v048.txt
     38cd4153df634e658ecfc3a531d296e1:
       image_group_id: I2DB57062
       title: ''
       volume_number: 51
       total_pages: 90
+      base_file: v049.txt
     8a7ace03404542c59a1fcaa7a2b57f86:
       image_group_id: I2DB57063
       title: ''
       volume_number: 52
       total_pages: 90
+      base_file: v050.txt
     5ea9e2baba3946f4850fc54119387b31:
       image_group_id: I2DB57064
       title: ''
       volume_number: 53
       total_pages: 86
+      base_file: v051.txt
     07058ea12d864b4ebea09ff64cdd5c0d:
       image_group_id: I2DB57065
       title: ''
       volume_number: 54
       total_pages: 90
+      base_file: v052.txt
     638a7d23394143ae84d0a0e85d65b381:
       image_group_id: I2DB57066
       title: ''
       volume_number: 55
       total_pages: 90
+      base_file: v053.txt
     a6442eeb47e44e78bc74d7aa66bc52bc:
       image_group_id: I2DB57067
       title: ''
@@ -305,6 +358,7 @@ source_metadata:
       title: ''
       volume_number: 60
       total_pages: 90
+      base_file: v054.txt
     44d3903b4c9a4a708e2267499d0be682:
       image_group_id: I2DB57072
       title: ''
@@ -315,6 +369,7 @@ source_metadata:
       title: ''
       volume_number: 62
       total_pages: 90
+      base_file: v055.txt
     09f65ea4ffd7449cbbc10e760cb6b2d1:
       image_group_id: I2DB57074
       title: ''
